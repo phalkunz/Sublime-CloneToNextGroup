@@ -1,0 +1,12 @@
+[
+    {
+        "id": "file",
+        "children":
+        [
+            {
+                "caption": "Clone to Next Group",
+                "command": "clone_to_next_group"
+            }
+        ]
+    }
+]
